@@ -11,6 +11,7 @@ def clear():
 
 #Enter
 def wait(mess, *keys):
+    print("Presione una tecla para continuar...")
     file_descriptor = sys.stdin.fileno()
     old = termios.tcgetattr(file_descriptor)
     new = old[:]
