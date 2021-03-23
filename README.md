@@ -6,5 +6,5 @@
 Entrar a la carpeta y ejecutar con el comando:
 python Bins.py
 
-#Versión
+# Versión
 1.1
